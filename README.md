@@ -2,6 +2,9 @@
 
 Ofis laptopları için sessiz / dengeli / performans mod yöneticisi.
 
+Bu uygulama, Windows'un kendi güç yönetim aracı olan `powercfg` komut satırı aracını temel alır. 
+- **Mantık:** İşlemcinin "Minimum" ve "Maksimum" çalışma yüzdelerini dinamik olarak değiştirerek, Windows'un işlemciye voltaj/frekans verme profilini manipüle eder.
+- **Sonuç:** Sessiz modda işlemci frekansını sabitleyerek fanların devreye girmesine neden olan "Turbo Boost" sıçramalarını engeller.
 ---
 
 ## 🚀 Kurulum
