@@ -36,7 +36,6 @@ python fan_control.py
 
 ---
 
-<<<<<<< Updated upstream
 =======
 ## 🔧 Sorun Giderme
 
