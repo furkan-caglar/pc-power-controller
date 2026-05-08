@@ -1,4 +1,4 @@
-# ⚡ Fan Kontrolü
+# ⚡ CPU Thermal & Power Manager
 
 Ofis laptopları için sessiz / dengeli / performans mod yöneticisi.
 
@@ -36,6 +36,17 @@ python fan_control.py
 
 ---
 
+<<<<<<< Updated upstream
+=======
+## 🔧 Sorun Giderme
+
+- **Mod değişmiyor:** Yönetici olarak çalıştır
+- **Tray ikonu görünmüyor:** Görev çubuğu → Sistem tepsisi ikonlarını göster
+- **Başlangıçta açılmıyor:** Uygulamayı bir kez yönetici olarak çalıştır ve toggle'ı aç
+
+---
+
+>>>>>>> Stashed changes
 ## 📋 Gereksinimler
 
 - Windows 10 / 11
